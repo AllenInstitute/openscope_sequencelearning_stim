@@ -1,1 +1,3 @@
-OpenScope-Texture_stage-A3_240404.pkl
+#find * -size +100M | cat > .gitignore
+OpenScope-Texture_ALTERNATIVE_stage-A3_240418.pkl
+OpenScope-Texture_stage-A3_240417.pkl
